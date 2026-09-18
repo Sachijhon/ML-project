@@ -1,5 +1,9 @@
 # ❤️ CardioAI — Heart Disease Risk Prediction System
 
+### Machine Learning • Python • Flask • Random Forest
+
+[![GitHub](https://img.shields.io/badge/GitHub-Sachijhon-181717?logo=github)](https://github.com/Sachijhon) [![Project](https://img.shields.io/badge/Portfolio-Featured-0A66C2)](https://github.com/Sachijhon/ML-project)
+
 > A machine-learning powered clinical decision-support prototype built with **Random Forest, Flask, HTML/CSS, and ReportLab**.
 
 [![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)](https://www.python.org/)
@@ -221,7 +225,9 @@ CardioAI was developed as an academic machine-learning project focused on applyi
 ## 👤 Author
 
 **Sachin B A**  
-Machine Learning | Data Analytics | Python | SQL | Power BI
+Aspiring Data Analyst | Python | SQL | Excel | Power BI | Machine Learning
+
+🔗 [GitHub Profile](https://github.com/Sachijhon) · [LinkedIn](https://www.linkedin.com/in/sachin-b-a-/)
 
 GitHub: [@Sachijhon](https://github.com/Sachijhon)
 
